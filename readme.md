@@ -1,8 +1,7 @@
 <h2 align="left">Hi 👋! My name is Dankbudbaker and I'm a inspiring learning to become a Full Stack Developer in Texas</h2>
 
 <img align="left" height="150" src="https://i.imgur.com/izOdhcI.jpg"  />
-<img src="https://dankbudbaker.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=dark&hide_border=false&username=dankbudbaker&hide=hack,batchfile" alt="languages graph"  />
-[![Dankbudbaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=dankbudbaker)](https://github.com/dankbudbaker/github-readme-stats)
+
 <h2 align="center">Tools & Technology</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
